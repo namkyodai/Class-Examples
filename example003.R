@@ -1,9 +1,5 @@
+#https://sites.google.com/site/namkyodai/
 #this is used to calculate the cash flow for renting construction equipment
-
-#load define directory
-#getwd()
-#setwd("C:/Users/nlethanh/Documents/R")
-
 #global cashflow functions
 #define the functions
 # x and y are interest rate and number of period, respectively
