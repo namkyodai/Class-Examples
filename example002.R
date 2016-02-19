@@ -14,8 +14,7 @@ AP <- function(x,y){(x*(1+x)^y)/((1+x)^y-1)} #this is function to define A based
 
 # ---------------------------------------------
 
-#source("overdraft-example14.R")
-#example 14 - overdraft due to late payment and retainage
+#overdraft due to late payment and retainage
 #INPUT
 i<-0.02
 T<-8
