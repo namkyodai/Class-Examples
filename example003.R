@@ -12,8 +12,8 @@ AP <- function(x,y){(x*(1+x)^y)/((1+x)^y-1)} #this is function to define A based
 
 # ---------------------------------------------
 
-#source("example15.R")
-#example 15 - NPV comparisoin
+#
+# NPV comparisoin
 #INPUT
 MARR<-0.2
 T<-5
