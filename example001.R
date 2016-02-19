@@ -1,4 +1,5 @@
 #Prepared by Nam Lethanh
+#https://sites.google.com/site/namkyodai/
 #this is used to calculate the cash flow for renting construction equipment
 #example from the book Construction Planning, Equipment, and Method
 #model input
